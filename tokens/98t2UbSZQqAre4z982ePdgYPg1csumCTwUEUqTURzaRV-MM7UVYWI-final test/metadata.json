@@ -1,0 +1,15 @@
+{
+  "name": "final test",
+  "symbol": "FT",
+  "description": "testing only",
+  "image": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
