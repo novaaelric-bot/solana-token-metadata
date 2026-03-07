@@ -1,0 +1,19 @@
+{
+  "name": "Test Token",
+  "symbol": "TT",
+  "description": "This is test token.",
+  "image": "https://cdn.creativefabrica.com/2021/06/16/Cryptocurrency-Solana-Logo-Graphics-13460284-1-1-580x435.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.creativefabrica.com/2021/06/16/Cryptocurrency-Solana-Logo-Graphics-13460284-1-1-580x435.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "fungible-token"
+  },
+  "creator": {
+    "name": "tcysed team",
+    "site": "https://google.com"
+  }
+}
