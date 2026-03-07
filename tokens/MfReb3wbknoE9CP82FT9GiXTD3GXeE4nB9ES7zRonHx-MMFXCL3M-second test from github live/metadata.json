@@ -1,0 +1,15 @@
+{
+  "name": "second test from github live",
+  "symbol": "STFGL",
+  "description": "second test from github live",
+  "image": "https://cdn.creativefabrica.com/2021/06/16/Cryptocurrency-Solana-Logo-Graphics-13460284-1-1-580x435.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.creativefabrica.com/2021/06/16/Cryptocurrency-Solana-Logo-Graphics-13460284-1-1-580x435.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
