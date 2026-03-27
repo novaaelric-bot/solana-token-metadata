@@ -1,0 +1,15 @@
+{
+  "name": "HOMUZ",
+  "symbol": "HOMUZ",
+  "description": "HOMUZHOMUZHOMUZ",
+  "image": "https://www.google.com/imgres?imgurl",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.google.com/imgres?imgurl",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
