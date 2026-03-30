@@ -1,0 +1,15 @@
+{
+  "name": "Artcrew",
+  "symbol": "ARTCREW",
+  "description": "NASA's Artemis II astronauts are entering final launch preparations, putting fresh global attention on the first crewed moon mission of the new era.",
+  "image": "https://www.google.com/imgres?imgurl",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.google.com/imgres?imgurl",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
