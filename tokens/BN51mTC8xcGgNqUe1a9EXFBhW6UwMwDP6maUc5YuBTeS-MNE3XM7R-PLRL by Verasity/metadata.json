@@ -1,0 +1,28 @@
+{
+  "name": "PLRL by Verasity",
+  "symbol": "PLRL",
+  "description": "PLRL is Verasity’s consumer-facing ecosystem that restructures how economic value flows across the internet. Built on Base chain, PLRL introduces an “Internet Equity Layer” designed to return a share of digital advertising and data economics to the individuals who generate that value through their everyday online activity.\n\nThe platform operates through three core products. The Data Vault allows users to stake consented data and earn $PLRL rewards while maintaining privacy controls. The Content Marketplace connects creators who upload and license video content with brands seeking ready-to-use media. Smart Delivery uses AI to serve personalized ads across the ecosystem and external publisher platforms.\n\nVerasity has operated in the digital advertising infrastructure space since 2017, building B2B solutions powered by its $VRA token. PLRL extends this foundation into a user-facing environment where $PLRL serves as the utility token coordinating staking, rewards, and access across all products. The $PLRL token has a fixed supply of 10 billion with minting permanently disabled, and launches in H1 2026.",
+  "image": "https://pbs.twimg.com/profile_images/2036402944292069376/9BlDy_4V_400x400.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://pbs.twimg.com/profile_images/2036402944292069376/9BlDy_4V_400x400.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "fungible-token"
+  },
+  "extensions": {
+    "website": "https://plrl.verasity.io/",
+    "twitter": "https://x.com/@verasitytech",
+    "telegram": "https://t.me/PLRLOfficial"
+  },
+  "tags": [
+    "plrl",
+    "verasity"
+  ],
+  "creator": {
+    "name": "Verasity",
+    "site": "https://plrl.verasity.io/"
+  }
+}
