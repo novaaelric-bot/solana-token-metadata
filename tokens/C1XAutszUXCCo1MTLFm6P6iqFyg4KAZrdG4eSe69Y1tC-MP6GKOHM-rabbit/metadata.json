@@ -1,0 +1,15 @@
+{
+  "name": "rabbit",
+  "symbol": "RABBIT",
+  "description": "rabbit  rabbit rabbit token",
+  "image": "https://targitlab.github.io/tcysed-spl/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://targitlab.github.io/tcysed-spl/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
