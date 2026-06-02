@@ -1,0 +1,15 @@
+{
+  "name": "TROLL1",
+  "symbol": "TROLL1",
+  "description": "TROLL1TROLL1TROLL1",
+  "image": "https://raydium.io/swap/?inputMint=sol&outputMint=EFuksA43CLhwjPERsMxB1Mg33kg9QuhumiZQ7ihBEGca",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raydium.io/swap/?inputMint=sol&outputMint=EFuksA43CLhwjPERsMxB1Mg33kg9QuhumiZQ7ihBEGca",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
