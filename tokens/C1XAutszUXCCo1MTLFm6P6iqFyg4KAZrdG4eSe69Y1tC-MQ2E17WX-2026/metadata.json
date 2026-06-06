@@ -1,0 +1,15 @@
+{
+  "name": "2026",
+  "symbol": "2026",
+  "description": "202620262026",
+  "image": "https://raydium.io/swap/?inputMint=sol&outputMint=H9i7hMJa3jbBBhXcFfrMz1CWdRQdFC2TQJue99gJWx4e",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raydium.io/swap/?inputMint=sol&outputMint=H9i7hMJa3jbBBhXcFfrMz1CWdRQdFC2TQJue99gJWx4e",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
