@@ -1,0 +1,15 @@
+{
+  "name": "test after new fee added",
+  "symbol": "TANFA",
+  "description": "descriptions",
+  "image": "https://google.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://google.com",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
