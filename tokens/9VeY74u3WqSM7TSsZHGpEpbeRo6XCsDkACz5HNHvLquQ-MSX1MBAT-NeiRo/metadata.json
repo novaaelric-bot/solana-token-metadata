@@ -1,0 +1,15 @@
+{
+  "name": "NeiRo",
+  "symbol": "NEIRO",
+  "description": "NeiRo max x10",
+  "image": "https://translate.google.com.vn/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://translate.google.com.vn/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
