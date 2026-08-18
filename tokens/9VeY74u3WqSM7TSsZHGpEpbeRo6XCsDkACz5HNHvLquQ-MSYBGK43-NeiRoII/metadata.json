@@ -1,0 +1,15 @@
+{
+  "name": "NeiRoII",
+  "symbol": "NEIROII",
+  "description": "NeiRo II x100",
+  "image": "https://www.google.com/search?q=anh+dep&oq=anh+dep&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4MDFqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CAMSZxowKg51N1JlWEotQzhCR0xlTTIOdTdSZVhKLUM4QkdMZU06DnB1S1NreEVEZTk1ZnJNIAQqLwobX3BRT0Vhb19pSDR1cWktZ1B0cGpQdVFFXzYyEg51N1JlWEotQzhCR0xlTRgAMAEYByDinsy4CEoIEAEYASABKAE",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.google.com/search?q=anh+dep&oq=anh+dep&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDM4MDFqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CAMSZxowKg51N1JlWEotQzhCR0xlTTIOdTdSZVhKLUM4QkdMZU06DnB1S1NreEVEZTk1ZnJNIAQqLwobX3BRT0Vhb19pSDR1cWktZ1B0cGpQdVFFXzYyEg51N1JlWEotQzhCR0xlTRgAMAEYByDinsy4CEoIEAEYASABKAE",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
