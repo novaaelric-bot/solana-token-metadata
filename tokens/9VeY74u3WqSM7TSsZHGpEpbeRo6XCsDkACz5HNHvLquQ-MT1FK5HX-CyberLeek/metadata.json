@@ -1,0 +1,19 @@
+{
+  "name": "CyberLeek",
+  "symbol": "CYBERLEEK",
+  "description": "CyberLeek CyberLeek",
+  "image": "https://targitlab.github.io/tcysed-spl/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://targitlab.github.io/tcysed-spl/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  },
+  "extensions": {
+    "website": "https://cyberleek.ar.io/",
+    "twitter": "https://x.com/cyberleek_ar_io"
+  }
+}
