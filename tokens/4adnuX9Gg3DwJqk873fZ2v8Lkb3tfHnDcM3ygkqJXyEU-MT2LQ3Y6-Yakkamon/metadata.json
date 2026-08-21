@@ -1,0 +1,23 @@
+{
+  "name": "Yakkamon",
+  "symbol": "FLOWER",
+  "description": "Yakkamon is a creature collector and idle farming game on Ronin from Thought Farm, the studio behind Sunflower Land. There is no new token: the game runs on $FLOWER, the same token used across the studio’s titles.\n\nPlayers catch wild monsters and put them to work farming and gathering resources, with production continuing while they are offline. The active side covers hunting rarer creatures, crafting gear, and arena battles, and new monsters enter the wild every 3 months.",
+  "image": "https://airdrops.io/wp-content/uploads/2026/08/Yakkamon-logo.jpg.webp",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://airdrops.io/wp-content/uploads/2026/08/Yakkamon-logo.jpg.webp",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  },
+  "extensions": {
+    "website": "https://yakkamon.com/",
+    "twitter": "https://x.com/yakkamon_game"
+  },
+  "tags": [
+    "flower",
+    "yakkamon"
+  ]
+}
