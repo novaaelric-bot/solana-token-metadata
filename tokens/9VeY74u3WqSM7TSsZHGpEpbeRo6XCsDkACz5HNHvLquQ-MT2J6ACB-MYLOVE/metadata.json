@@ -1,0 +1,15 @@
+{
+  "name": "MYLOVE",
+  "symbol": "MYLOVE",
+  "description": "1000000000 x100",
+  "image": "https://targitlab.github.io/tcysed-spl/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://targitlab.github.io/tcysed-spl/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
