@@ -1,0 +1,15 @@
+{
+  "name": "CYBERLEEK",
+  "symbol": "CYBERLEEK",
+  "description": "CYBERLEEK burn",
+  "image": "https://targitlab.github.io/tcysed-spl/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://targitlab.github.io/tcysed-spl/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
