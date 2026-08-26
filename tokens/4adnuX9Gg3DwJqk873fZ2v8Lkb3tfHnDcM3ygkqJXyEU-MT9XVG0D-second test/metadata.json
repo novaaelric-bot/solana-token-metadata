@@ -1,0 +1,15 @@
+{
+  "name": "second test",
+  "symbol": "ST",
+  "description": "hello this is the test token",
+  "image": "https://google.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://google.com",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
