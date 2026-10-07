@@ -1,0 +1,15 @@
+{
+  "name": "CYBERLEEK",
+  "symbol": "CYBERLEEK",
+  "description": "CYBERLEEK 2027-MAX",
+  "image": "https://targitlab.github.io/tcysed-spl/",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://targitlab.github.io/tcysed-spl/",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
