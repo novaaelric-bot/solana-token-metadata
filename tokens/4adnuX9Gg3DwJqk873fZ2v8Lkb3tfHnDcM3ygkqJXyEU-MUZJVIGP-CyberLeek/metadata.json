@@ -1,0 +1,15 @@
+{
+  "name": "CyberLeek",
+  "symbol": "CYBERLEEK",
+  "description": "We do not own the games, if  they do not give us physical  editions.",
+  "image": "https://cdn.dexscreener.com/cms/images/EvHO-m_bFJ_TjSs4?width=64&height=64&fit=crop&quality=95&format=auto",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.dexscreener.com/cms/images/EvHO-m_bFJ_TjSs4?width=64&height=64&fit=crop&quality=95&format=auto",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
