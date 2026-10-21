@@ -1,0 +1,15 @@
+{
+  "name": "SOLMATE",
+  "symbol": "SME",
+  "description": "buy it hold it shill it \nnew meta solana sendor is here!",
+  "image": "https://kommodo.ai/i/qocJkTF8TypFIYDqiQcO",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://kommodo.ai/i/qocJkTF8TypFIYDqiQcO",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
