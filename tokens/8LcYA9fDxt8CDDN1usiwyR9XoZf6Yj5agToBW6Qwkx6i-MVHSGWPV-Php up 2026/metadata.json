@@ -1,0 +1,15 @@
+{
+  "name": "Php up 2026",
+  "symbol": "PHP",
+  "description": "Php new coin 2026",
+  "image": "https://kommodo.ai/i/1J1u8ziTbvHFxDfMlDmB",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://kommodo.ai/i/1J1u8ziTbvHFxDfMlDmB",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  }
+}
