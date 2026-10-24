@@ -1,0 +1,18 @@
+{
+  "name": "Zayro",
+  "symbol": "ZAY",
+  "description": "ZAYRO ($ZAY)\n\nZAYRO is a next-generation cryptocurrency concept designed around innovation, freedom, and digital progress. With a premium black-and-gold identity, ZAYRO represents ambition, strength, and a decentralized future.\n\nToken Details\n\n- Name: ZAYRO\n- Symbol: ZAY\n- Total Supply: 100,000,000 ZAY\n- Decimals: 18\n- Consensus: Proof of Stake (PoS) — proposed concept\n- Mission: Building a stronger tomorrow through digital innovation.\n\nZAYRO — More Than a Token. It's a Movement.\n\nNote: ZAYRO is a proposed project, not yet a deployed cryptocurrency. The consensus mechanism depends on the blockchain used.",
+  "image": "https:///mnt/data/image_20261023_171922.webp",
+  "properties": {
+    "files": [
+      {
+        "uri": "https:///mnt/data/image_20261023_171922.webp",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible-token"
+  },
+  "creator": {
+    "name": "Yassin el mazhoudi"
+  }
+}
